@@ -5,10 +5,12 @@ This program is a MATLAB implementation of the NMF on the <a href="https://githu
 The function 'nmf' does the original NMF algorithm with the KL-Divergence (shown below) minimization, and the function 'ssnmf' does the sparsity imposed NMF.
 
 KL-Divergence:
-![](https://github.com/junyuchen245/Nonnegative_Matrix_Factorization_with_KLD_MATLAB/blob/master/NMF/KLD.png)
+
+<img src="https://github.com/junyuchen245/Nonnegative_Matrix_Factorization_with_KLD_MATLAB/blob/master/NMF/KLD.png" width="400"/>
 
 Matrix update is given by:
-![](https://github.com/junyuchen245/Nonnegative_Matrix_Factorization_with_KLD_MATLAB/blob/master/NMF/matrix_update.png)
+
+<img src="https://github.com/junyuchen245/Nonnegative_Matrix_Factorization_with_KLD_MATLAB/blob/master/NMF/matrix_update.png" width="400"/>
 
 
 An example result:
