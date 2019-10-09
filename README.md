@@ -1,4 +1,4 @@
-# Nonnegative_Matrix_Factorization_with_KLD_MATLAB
+# Nonnegative Matrix Factorization with KL-Divergnece
 
 This program is a MATLAB implementation of the NMF on the <a href="https://github.com/marinkaz/nimfa/tree/master/nimfa/datasets/ORL_faces"> face data</a>.
 
