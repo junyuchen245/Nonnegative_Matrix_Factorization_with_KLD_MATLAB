@@ -12,6 +12,8 @@ Matrix update is given by:
 
 <img src="https://github.com/junyuchen245/Nonnegative_Matrix_Factorization_with_KLD_MATLAB/blob/master/NMF/matrix_update.png" width="400"/>
 
+Where **B** is the factorized matrix with a user defined rank and **W** is the factorized weighting matrix.
+
 
 An example result:
 ![](https://github.com/junyuchen245/Nonnegative_Matrix_Factorization_with_KLD_MATLAB/blob/master/NMF/example_img.jpg)
